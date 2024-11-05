@@ -1,5 +1,4 @@
 'use client'
-import Image from "next/image";
 import { IoMdTrash } from "react-icons/io";
 import { MdModeEdit } from "react-icons/md";
 import './todo.css'
